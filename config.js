@@ -6,7 +6,10 @@ const numberAllowed = ['6285246154386']; // Nomor yang diizinkan menggunakan bot
 
 global.prefix = ['.', '#'];         // Prefix perintah
 global.jeda = 15000;                // Jeda broadcast (ms) — default 15 detik
-global.name_script = 'Script Resbot Jpm';
+global.name_script = 'Script Nefu Jpm';
+global.botName    = 'NEFU JPM';
+global.botOwner   = 'Nepu-Nepu';
+global.botWeb     = 'nefusoft.com';
 global.version = '2.1';
 global.banner = 'https://nefuu.my.id/83xO.jpg'; // URL gambar banner
 
