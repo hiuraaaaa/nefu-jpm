@@ -8,6 +8,7 @@ global.prefix = ['.', '#'];         // Prefix perintah
 global.jeda = 15000;                // Jeda broadcast (ms) — default 15 detik
 global.name_script = 'Script Resbot Jpm';
 global.version = '2.1';
+global.banner = 'https://nefuu.my.id/83xO.jpg'; // URL gambar banner
 
 // ─── Konfigurasi Auto JPM ──────────────────────────────────────────────────
 
