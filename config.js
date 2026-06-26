@@ -1,6 +1,6 @@
 // ─── Akses & Konfigurasi Bot ───────────────────────────────────────────────
 
-const numberAllowed = ['6285246154386']; // Nomor yang diizinkan menggunakan bot
+const numberAllowed = ['62882006639544']; // Nomor yang diizinkan menggunakan bot
 
 // ─── Global Config ─────────────────────────────────────────────────────────
 
